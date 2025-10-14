@@ -1,2 +1,0 @@
-# Smi
-Webpage it is
